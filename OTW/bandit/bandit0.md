@@ -15,8 +15,9 @@ The password for the next level is stored in a file called `readme` in the home 
   ```bash
   ssh bandit0@bandit.labs.overthewire.org -p 2220
 - Password:bandit0
-  1.Ran ls - Found readme
-  2.Ran cat readme - Got Password
+
+1.Ran ls - Found readme
+2.Ran cat readme - Got Password
 
 <details>
   <summary> Click to reveal Password</summary>
