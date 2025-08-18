@@ -20,7 +20,7 @@ The password for the next level is stored in a file called `readme` in the home 
 
 <details>
   <summary> Click to reveal Password</summary>
-### Password for bandit1: "ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If"
+   Password for bandit1: "ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If"
 </details>
   
 ## Lessons learned
