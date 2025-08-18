@@ -17,7 +17,11 @@ The password for the next level is stored in a file called `readme` in the home 
 - Password:bandit0
   1.Ran ls - Found readme
   2.Ran cat readme - Got Password
+
+<details>
+  <summary> Click to reveal Password</summary>
 ### Password for bandit1:<ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If>
+</details>
   
 ## Lessons learned
 - Basic SSH login format (ssh user@host -p port).
