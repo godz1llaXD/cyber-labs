@@ -17,6 +17,7 @@ The password for the next level is stored in a file called `readme` in the home 
 - Password:bandit0
 
 1.Ran ls - Found readme
+
 2.Ran cat readme - Got Password
 
 <details>
