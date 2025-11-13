@@ -23,6 +23,7 @@ The password for the next level is stored in a file called - located in the home
   
 a.By using cat ./- ; Got Password
 
+'''
 Defined the file path
 
 . (a single dot): Represents the current working directory.
@@ -32,9 +33,11 @@ Defined the file path
 .. (two dots): Represents the parent directory, which is the directory one level above the current one.
 
 ../: Specifies a file or folder in the parent directory. 
+'''
 
 b.By using cat < - ; Got Password 
 
+'''
 Input redirection
 
 >: Redirects standard output (overwrites file).
@@ -46,6 +49,7 @@ Input redirection
 2>: Redirects error messages to a file.
  
 &>: Redirects both standard output and error to a file.
+'''
 
 <details>
   <summary> Click to reveal Password</summary>
