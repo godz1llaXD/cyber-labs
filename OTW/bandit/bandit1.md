@@ -41,11 +41,11 @@ Input redirection
 
 >>: Redirects and appends output to a file.
 
- <: Takes input from a file instead of the keyboard.
+<: Takes input from a file instead of the keyboard.
  
- 2>: Redirects error messages to a file.
+2>: Redirects error messages to a file.
  
- &>: Redirects both standard output and error to a file.
+&>: Redirects both standard output and error to a file.
 
 <details>
   <summary> Click to reveal Password</summary>
